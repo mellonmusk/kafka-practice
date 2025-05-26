@@ -2,7 +2,7 @@
 
 ## 1. kafka download
 
-개발 편의를 위해 두 방식으로 모두 다운로드함
+로컬에서는 개발 편의를 위해 두 방식으로 모두 다운로드함
 
 - [https://kafka.apache.org/downloads](https://kafka.apache.org/downloads)   
 위 링크에서 scala 2.13 다운로드 <- 디렉토리 구조가 개발환경 통합을 위해 편리함
